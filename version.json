@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Alpha",
+    "releases": [
+      {
+        "name": "Alpha 1.0",
+        "release_date": "30 November 2025",
+        "release_notes": "https://godotengine.org/article/dev-snapshot-godot-4-6-dev-4/"
+      }
+    ]
+  

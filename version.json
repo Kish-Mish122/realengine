@@ -1,18 +1,12 @@
-{
-  "version": "7.2.6",
-  "is_new": true,
-  "download_url": "https://www.k1shm1sh-realengine.ru/about-real-engine/download-rlengine",
-  "release_notes": "• Упрощенный GDScript\n• Новый интерфейс\n• Вращающийся градиент"
-
-}
-
-
-
-
-
-
-
-
-
-
-
+[
+  {
+    "name": "19.2.6",
+    "releases": [
+      {
+        "name": "stable",
+        "release_date": "19 February 2026",
+        "release_notes": "• Упрощенный GDScript\n• Новый интерфейс\n• Вращающийся градиент"
+      }
+    ]
+  }
+]

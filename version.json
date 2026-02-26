@@ -1,11 +1,11 @@
 [
   {
-    "name": "19.2.6",
+    "name": "26.2.6",
     "releases": [
       {
         "name": "stable",
-        "release_date": "19 February 2026",
-        "release_notes": "• Упрощенный GDScript\n• Новый интерфейс\n• Вращающийся градиент"
+        "release_date": "26 February 2026",
+        "release_notes": "• Major performance improvements\n• New rendering features\n• Bug fixes and stability enhancements\n• Updated documentation"
       }
     ]
   }

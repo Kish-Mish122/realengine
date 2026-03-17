@@ -1,6 +1,19 @@
 {
-    "latest_version": "3.0",
-    "release_notes": "✨ Новые возможности:\n• Автоматическое обновление\n• Git интеграция\n• Discord Rich Presence\n• Тёмно-зелёная тема\n• Улучшенная производительность",
-    "download_url": "https://github.com/K1sh-M1sh/RealCode/releases/download/v2.9/RealCode.exe",
-    "update_message": "Доступна новая версия RealCode с улучшениями и новыми функциями!"
+    "latest_version": "3.1.0",
+    "download_url": "https://github.com/K1sh-M1sh/RealCode/releases/download/v3.1.0/RealCode.exe",
+    
+    // Для красивого сообщения
+    "update_message": "✨ Новая версия RealCode с улучшениями!",
+    
+    // Список изменений
+    "release_notes": "• Добавлен Git\n• Улучшена производительность\n• Исправлены баги",
+    
+    // Минимальная версия (если нужно требовать обновление)
+    "minimum_version": "1.0",
+    
+    // Дата выхода
+    "release_date": "2026-03-17",
+    
+    // Принудительное обновление
+    "force_update": false
 }

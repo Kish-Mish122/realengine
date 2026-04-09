@@ -1,6 +1,12 @@
-{
-  "latest_version": "9.4.6",
-  "release_notes": "• Major performance improvements\n• New rendering features\n• Bug fixes and stability enhancements\n• Updated documentation",
-  "download_url": "https://github.com/Kish-Mish122/RealEngine_OpenSourceCode/releases/tag/26.2.6",
-  "release_date": "2026-04-09"
-}
+[
+  {
+    "name": "9.4.6",
+    "releases": [
+      {
+        "name": "stable",
+        "release_date": "4 April 2026",
+        "release_notes": "..."
+      }
+    ]
+  }
+]

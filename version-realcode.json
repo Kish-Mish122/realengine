@@ -1,8 +1,8 @@
 {
     "latest_version": "3.0",
     "download_url": "https://github.com/Kish-Mish122/RealCode/releases/download/v.3.0/RealCode.exe",
-    "update_message": "✨ Новая версия RealCode с улучшениями!",
-    "release_notes": "• Исправлен баг с подсветкой синтаксиса",
+    "update_message": "Новая версия RealCode с улучшениями!",
+    "release_notes": "1. Нет той самой надоедливой переноса строки при переключении с одного файла, на другой.\n2. Обновлен текст 'Новая версия RealCode' на 'Пора обновляться! Новая версия RealCode VERSION'",
     "minimum_version": "1.0",
     "release_date": "2026-03-19",
     "force_update": false
